@@ -1,0 +1,30 @@
+NEW GAME
+SETTINGS
+CREDITS
+EXIT
+LANGUAGE
+ENGLISH
+FULLSCREEN
+ON
+OFF
+MUSIC VOLUME
+Created by Ivan Romanenko.
+Music by bensound.com, Kevin MacLeod, Kai Engel, Misha Dioxin.
+Time
+holy
+unholy
+watery
+non-watery
+Total captured
+Capture pnts
+Combo
+GG, MASTER
+Tie
+Nice try
+Choose second player
+Local Player
+Easy AI
+Medium AI
+English_Characters.txt
+English_CellTypes.txt
+

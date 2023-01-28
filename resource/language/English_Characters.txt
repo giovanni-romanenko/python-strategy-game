@@ -1,0 +1,111 @@
+Admiral Triangle
+TRANSLATED
+Admiral Triangle
+DESCRIPTION
+RULES
+END
+
+Cat
+TRANSLATED
+Cat
+DESCRIPTION
+RULES
+- (Combo) Each Blood,
+  starting with the
+  second one, gives 
+  1 extra capture pnt.
+- On turn end:
+  If no Blood was 
+  captured during 
+  its turn, then 
+  the combo is dropped.
+END
+
+Clown-Wolf
+TRANSLATED
+Clown-Wolf
+DESCRIPTION
+RULES
+- On game start: 
+  Transforms all Pigs 
+  into Blood.
+- Requires no points 
+  to capture Forest.
+- Each 2 Blood give 
+  1 extra capture pnt.
+END
+
+Eternal Flame
+TRANSLATED
+Eternal Flame
+DESCRIPTION
+RULES
+- On turn end:
+  Each captured Fire
+  tries to capture 
+  its neighbours.
+  Fire, captured that
+  way, also tries
+  to capture its
+  neighbours,
+  and so on.
+END
+
+Mirror
+TRANSLATED
+Mirror
+DESCRIPTION
+RULES
+- After previous
+  player's turn:
+  Swaps characters
+  with him.
+END
+
+Rich Pig
+TRANSLATED
+Rich Pig
+DESCRIPTION
+RULES
+- Each pair (Bank, Pigs)
+  gives 1 extra 
+  capture pnt.
+END
+
+Second Wife
+TRANSLATED
+Second Wife
+DESCRIPTION
+RULES
+- Plays all games as
+  second player. 
+- Can capture Banks,
+  owned by opponent.
+END
+
+Water Bucket
+TRANSLATED
+Water Bucket
+DESCRIPTION
+RULES
+- Can capture Mountains.
+- Can capture cells 
+  up to 2 cells away
+  from his Mountains.
+END
+
+Yin
+TRANSLATED
+Yin
+DESCRIPTION
+RULES
+- On turn end:
+  Transforms watery
+  cells into Bog,
+  non-watery cells
+  into Dark.
+- Each 2 pairs 
+  (Bog, Dark) give 
+  1 extra capture.
+END
+

@@ -1,0 +1,140 @@
+Cat vs. Clown-Wolf
+Cat won: 0
+Clown-Wolf won: 24
+Tied: 6
+
+Cat vs. Eternal Flame
+Cat won: 10
+Eternal Flame won: 10
+Tied: 10
+
+Cat vs. Mirror
+Cat won: 8
+Mirror won: 10
+Tied: 12
+
+Cat vs. Rich Pig
+Cat won: 4
+Rich Pig won: 13
+Tied: 13
+
+Cat vs. Second Wife
+Cat won: 5
+Second Wife won: 8
+Tied: 17
+
+Cat vs. Water Bucket
+Cat won: 6
+Water Bucket won: 14
+Tied: 10
+
+Cat vs. Yin
+Cat won: 1
+Yin won: 19
+Tied: 10
+
+Clown-Wolf vs. Eternal Flame
+Clown-Wolf won: 15
+Eternal Flame won: 4
+Tied: 11
+
+Clown-Wolf vs. Mirror
+Clown-Wolf won: 7
+Mirror won: 11
+Tied: 12
+
+Clown-Wolf vs. Rich Pig
+Clown-Wolf won: 24
+Rich Pig won: 0
+Tied: 6
+
+Clown-Wolf vs. Second Wife
+Clown-Wolf won: 23
+Second Wife won: 1
+Tied: 6
+
+Clown-Wolf vs. Water Bucket
+Clown-Wolf won: 23
+Water Bucket won: 0
+Tied: 7
+
+Clown-Wolf vs. Yin
+Clown-Wolf won: 16
+Yin won: 4
+Tied: 10
+
+Eternal Flame vs. Mirror
+Eternal Flame won: 5
+Mirror won: 7
+Tied: 18
+
+Eternal Flame vs. Rich Pig
+Eternal Flame won: 8
+Rich Pig won: 10
+Tied: 12
+
+Eternal Flame vs. Second Wife
+Eternal Flame won: 10
+Second Wife won: 10
+Tied: 10
+
+Eternal Flame vs. Water Bucket
+Eternal Flame won: 11
+Water Bucket won: 6
+Tied: 13
+
+Eternal Flame vs. Yin
+Eternal Flame won: 6
+Yin won: 15
+Tied: 9
+
+Mirror vs. Rich Pig
+Mirror won: 5
+Rich Pig won: 3
+Tied: 22
+
+Mirror vs. Second Wife
+Mirror won: 9
+Second Wife won: 3
+Tied: 18
+
+Mirror vs. Water Bucket
+Mirror won: 9
+Water Bucket won: 8
+Tied: 13
+
+Mirror vs. Yin
+Mirror won: 10
+Yin won: 8
+Tied: 12
+
+Rich Pig vs. Second Wife
+Rich Pig won: 13
+Second Wife won: 1
+Tied: 16
+
+Rich Pig vs. Water Bucket
+Rich Pig won: 11
+Water Bucket won: 0
+Tied: 19
+
+Rich Pig vs. Yin
+Rich Pig won: 6
+Yin won: 10
+Tied: 14
+
+Second Wife vs. Water Bucket
+Second Wife won: 11
+Water Bucket won: 8
+Tied: 11
+
+Second Wife vs. Yin
+Second Wife won: 1
+Yin won: 28
+Tied: 1
+
+Water Bucket vs. Yin
+Water Bucket won: 2
+Yin won: 18
+Tied: 10
+

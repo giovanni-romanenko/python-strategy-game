@@ -1,0 +1,70 @@
+Bank
+TRANSLATED
+Bank
+DESCRIPTION
+Each 2 Banks give 1 extra capture pnt.
+END
+
+Blood
+TRANSLATED
+Blood
+DESCRIPTION
+
+END
+
+Bog
+TRANSLATED
+Bog
+DESCRIPTION
+
+END
+
+Dark
+TRANSLATED
+Dark
+DESCRIPTION
+Can't be captured by holy characters.
+END
+
+Fire
+TRANSLATED
+Fire
+DESCRIPTION
+
+END
+
+Forest
+TRANSLATED
+Forest
+DESCRIPTION
+Requires 2 points to be captured.
+END
+
+Ice
+TRANSLATED
+Ice
+DESCRIPTION
+On capture from Fire: turns into Water.
+END
+
+Mountain
+TRANSLATED
+Mountain
+DESCRIPTION
+Can't be captured.
+END
+
+Pigs
+TRANSLATED
+Pigs
+DESCRIPTION
+Requires no points to be captured.
+END
+
+Water
+TRANSLATED
+Water
+DESCRIPTION
+
+END
+
