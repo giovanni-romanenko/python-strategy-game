@@ -11,4 +11,4 @@
 
 #### pyglet and numpy are required: 
 
-###### pip install pyglet numpy
+###### pip install 'pyglet==1.5.27' numpy
