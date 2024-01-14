@@ -1,3 +1,9 @@
+# Description
+
+Game made by me as semestral project in university. Uses python library called pyglet 
+
+Written in about 2 weeks
+
 # How to run
 ## On Windows:
 
